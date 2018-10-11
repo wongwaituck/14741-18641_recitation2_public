@@ -8,9 +8,6 @@ Simply run `make`
 
 ### Setup
 
-Put `win` into your home directory as such: 
-```
-cp win ~/.
-```
+None.
 
 Hack on!
